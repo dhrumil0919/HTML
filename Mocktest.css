@@ -1,0 +1,290 @@
+#nav{
+    margin: 0px;
+  }
+.img{
+    font-family: sans-serif;
+    height: 687px;
+    background-image: url(IMAGES2/pexels-photo-5965948.jpeg);
+    padding-left: 1000px;
+    color:aliceblue;
+    padding-top: 300px;
+}
+.txt{
+  font-size: 150px;
+}
+.heading{
+  font-size: 100px;
+}
+.para{
+  text-align: center;
+}
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.button{
+  border: fit-content;
+  color: red;
+  padding: auto;
+}
+.b1 {
+  padding-top: 60px;
+  padding-left: 80px;
+  width: 500px;
+}
+.b3 {
+  padding-top: 20px;
+}
+.b4 {
+  padding-left: 20px;
+  border-style: solid;
+  background-color: gray;
+  padding: 10px;
+  font-size: 30px;
+  width: 43%;
+}
+
+.d1 {
+  display: flex;
+  justify-content: space-end;
+}
+
+.card1 {
+  background-color: rgba(255, 0, 0, 0.716);
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 14px;
+  margin-left: 267px;
+}
+
+.card2 {
+  background-color: aqua;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 14px;
+  margin-left: 57px;
+
+}
+.card3{
+  background-color: black;
+  color: azure;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 14px;
+  margin-left: 92px;
+}
+.background{
+  margin-top: 50px;
+  background-image: url(IMAGES2/pexels-photo-4038777.jpeg);
+  height: 800px;
+  width: 100%;
+  background-size: cover;
+}
+.Bh{
+  text-align: left;
+  padding-top: 400px;
+  padding-left: 100px;
+}
+.email{
+  width: 25%;
+  padding-left: 100px;
+}
+.button1{
+  margin-top: 10px;
+  padding: 10px 113px 10px  !important;
+}
+.tips{
+  text-align: center;
+  padding-top: 30px;
+  font-size: 60px;
+  color: azure;
+}
+
+.bg{
+  background-color: rgba(255, 0, 0, 0.716);
+}
+.girl IMG{
+  margin-top: 400px;
+  margin-left: 50px;
+  border-radius: 50%;
+  height: 450px;
+  width: 450px;
+}
+.reddot{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: rgba(255, 0, 0, 0.716);
+  margin-top:30px;
+}
+.overlayimage{
+  width: 180px;
+  height: 180px;
+  border: 15px solid #D3D3D3;
+  border-radius: 50%;
+  position: relative;
+  top:-150px;
+  left: 1000px;
+  background-color: white;
+
+}
+.red{
+  border-radius: 50%;
+  margin-left: 500px;
+  margin-top: -550px;
+}
+.blue{
+  margin-bottom: 50px;
+  margin-right: 400px;
+  margin-left: 1100px;
+  margin-top: 300px;
+}
+.pa{
+  padding-left: 970px;
+  font-size: 35px;
+  width: 100%;
+}
+.bgcol{
+ background-color: #D3D3D3; 
+}
+.eat h1{
+  font-size: 55px;
+  padding-left: 0px;
+  padding-top: 50px;
+}
+.eat{
+  padding-left: 40px;
+  padding-top: 50px;
+  padding-right: 40px;
+  margin-top: 25%;
+  margin-bottom: 15%;
+  background-color: azure;
+}
+.button2 {
+  color: azure;
+  background-color:black;
+  margin-top: 10%;
+  margin-bottom:  10%;
+  padding-left: 5%;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.picog{
+  margin-top: 20%;
+  margin-left: -30px;
+  margin-right: 15%;
+  padding-right: 70px;
+
+}
+.red2{
+    padding-top: 40px;
+    margin-left: 15%;
+  
+}
+.jn{
+   padding-right: 10% ;
+}
+.sec6 h1{
+  text-align: center;
+  color: rgba(255, 0, 0, 0.716);
+
+}
+.organic{
+  text-align: center;
+  font-style: italic;
+}
+#spu{
+  padding-left: 240px;
+  padding-right: 240px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.sec8{
+  background-color: #D3D3D3;
+}
+.notice{
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-right: 40px;
+  margin-top: 10%;
+  margin-bottom: 15%;
+  background-color:none;
+
+}
+hr.underline{
+  border: 4px solid rgba(255, 0, 0, 0.716);
+  margin-top: 5%;
+  margin-left: 1%;
+  margin-bottom: 5%;
+  width: 70%;
+}
+.button3 {
+  color: azure;
+  background-color:rgba(255, 0, 0, 0.716);
+  margin-top: 10%;
+  margin-bottom:  10%;
+  padding-left: 5%;
+  border: none;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.box3{
+  padding-left: 40px;
+  padding-top: 300px;
+  padding-right: 40px;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  padding-bottom: 5%;
+  background-color: azure;
+}
+.red3{
+  padding-bottom: 35px;
+  padding-right: 10px;
+
+}
+.about h1{
+  color: rgba(255, 0, 0, 0.716);
+  padding-top: 5%;
+
+}
+.body{
+  background-color: #D3D3D3;
+  padding: 4%;
+  
+}
+.body p{
+  padding-bottom: 30px;
+}
+.body1{
+  background-color: rgba(255, 0, 0, 0.716);
+  padding-left: 40px;
+  padding-top: 200px;
+  padding-right: 40px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: -30px;
+}
+.fb{
+ margin-top: 5%;
+}
+.card-title{
+  text-align: center;
+  font-size: 15px;
+}
+.bgcolor{
+  margin-bottom: auto;
+  background-color:#333333;
+  text-align: center;
+  color:white;
+  height: 150px;
+ 
+}
